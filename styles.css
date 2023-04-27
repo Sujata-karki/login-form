@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+.login-form{
+    background-color: grey;
+    border: solid white 2px;
+    border-radius: 6px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    -ms-border-radius: 6px;
+    -o-border-radius: 6px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+}
+label{
+    display: block;
+    margin: 10px;
+}
+input{
+    display: block;
+    margin: 10px;
+}
+button{
+    display: block;
+    margin: 10px;
+}
+.social{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+.google{
+    border: solid black 1px;
+}
