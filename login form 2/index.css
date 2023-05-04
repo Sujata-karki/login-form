@@ -17,17 +17,20 @@ body{
     border: rgb(255, 255, 255) solid;
     box-shadow: 0px 0px 30px rgb(255, 255, 255);
     box-sizing: border-box;
-    padding: 20px 60px;
+    padding: 15px 50px;
     max-width: 480px;
     font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
     backdrop-filter: var(--tw-backdrop-blur) var(--tw-backdrop-brightness) var(--tw-backdrop-contrast) var(--tw-backdrop-grayscale) var(--tw-backdrop-hue-rotate) var(--tw-backdrop-invert) var(--tw-backdrop-opacity) var(--tw-backdrop-saturate) var(--tw-backdrop-sepia);
 }
 .title{
-    font-size:24px ;
+    font-size:30px ;
     font-weight: 700;
+    text-shadow:0px 0px 6px black ;
 }
 .slogan{
     line-height: 24px;
+    font-size: 18px;
+    text-shadow:0px 0px 6px black ;
 }
 .or{
     font-size: 25px;
