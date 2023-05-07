@@ -55,3 +55,23 @@ button{
     font-size: 25px;
     font-weight: 700;
 }
+.input-container{
+    display: block;
+    justify-content: space-between;
+   
+}
+/* input{
+    border-radius: 6px;
+    border: none;
+    padding: 10px;
+} */
+/* .f-name,.l-name{
+    margin-top: none;
+    justify-content: space-between;
+    box-sizing: border-box;
+} */
+#email,#password{
+    margin-top: 20px;
+    width: 100%;
+    box-sizing: border-box;
+}
